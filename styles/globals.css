@@ -10,13 +10,13 @@
 }
 
 a {
-  color: #E7332B;
+  color: #0072a1;
   text-decoration: none;
 }
 
 a:hover{
   text-decoration: none;
-  color: #eb5850;
+  color: #218ebd;
 }
 
 .container-fluid {
@@ -38,11 +38,6 @@ a:hover{
   margin: auto;
 }
 
-/* .logo-img {
-  margin-top: 69px;
-  margin-left: 100px;
-  margin-bottom: 143px;
-} */
 
 .hero-container {
   height: 800px;
@@ -81,27 +76,27 @@ a:hover{
 
 .my-btn {
   padding: 11px 28px;
-  border: 1px solid #E7332B;
+  border: 1px solid #0072a1;
 }
 
 .btn-red {
-  background-color: #E7332B;
+  background-color: #0072a1;
   color: #fff;
   margin-right: 24px;
 }
 
 .btn-red:hover {
   background-color: #fff;
-  color: #E7332B;
+  color: #0072a1;
 }
 
 .btn-red-outline {
   background-color: #fff;
-  color: #E7332B;
+  color: #0072a1;
 }
 
 .btn-red-outline:hover {
-  background-color: #E7332B;
+  background-color: #0072a1;
   color: #fff;
 }
 
@@ -117,7 +112,7 @@ section.programs {
 .program-content .heading {
   font-size: 14px;
   line-height: 24px;
-  color: #E7332B;
+  color: #0072a1;
   margin-top: 141px;
 }
 
@@ -133,16 +128,12 @@ section.programs {
 
 .container-fluid {
   margin: 0 auto;
-  /*max-width: 1240px;*/
   text-align: center;
-  /*border: 1px solid red;*/
 }
 
 .program-card {
-  /*height: 511px;*/
   width: 100%;
-  /*border: 1px solid red;*/
-  background-color: #FFFAFA;
+  background-color: #eef0f1;
   padding: 61px 47px 82px 36px;
   text-align: justify-all;
 }
@@ -182,7 +173,7 @@ img.card-bg-svg-2 {
 .program-card h3 a {
   font-size: 16px;
   line-height: 24px;
-  color: #E7332B;
+  color: #0072a1;
   opacity: 0.9;
 }
 
