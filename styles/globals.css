@@ -41,7 +41,7 @@ a:hover{
 
 .hero-container {
   height: 800px;
-  /* background-image: url("../img/hero-bg.svg"); */
+  background-image: url("https://res.cloudinary.com/kallyasmedia/image/upload/v1644845382/hero-bg-svg__c8ryqg.svg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -218,8 +218,9 @@ img.card-bg-svg-2 {
   opacity: 0.9;
 }
 
-.contact-icons img {
-  width: 18px !important;
+.fa-facebook, .fa-twitter, .fa-github {
+  width: 28px !important;
+  height: 28px !important;
   margin-right: 5px;
 }
 

@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Outbox Edu | Learn, Build, Grow</title>
+        <title>Outbox Edu | Learn, Live, Lead</title>
 
         <meta charset="UTF-8" />
         <meta
@@ -20,6 +20,7 @@ export default function Home() {
           href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
           rel="stylesheet"
         />
+        <script defer src="https://kit.fontawesome.com/0d67f6bb4c.js" crossOrigin="anonymous"></script>
         <meta
           name="description"
           content="Unlock your Brilliance with our hands-on training. Recruit from our global network of a highly adept intelligent workforce. Learn to code and teach others. Get a job as a coder / programmer"
