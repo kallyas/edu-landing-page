@@ -6,7 +6,7 @@ const Footer = () => {
     <>
       <div className="footer-flex-container text-center text-md-left">
         <div className="flex-1">
-          <img alt="" className="footer-logo" src="./img/zuri-logo-full.svg" />
+          <img alt="" className="footer-logo" src="https://res.cloudinary.com/kallyasmedia/image/upload/v1644844809/image_rdghq6.png" />
         </div>
 
         <div className="flex-3">
